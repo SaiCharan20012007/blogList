@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.profile-logo {
+  height: 200px;
+  width: 200px;
+}
+.user-info-des {
+  color: #9aa5b1;
+  font-family: Roboto;
+  margin-top: 0px;
+}
